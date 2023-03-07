@@ -5,6 +5,8 @@ Progressive web applications are software accessed through the web. These apps a
 
 The code for the front end and server was given by University of Toronto Coding Bootcamp. I have added code to enable the app to be installable and able to work offline through the use of caching with service workers. 
 
+Deployed URL of app: [https://pwa-text-editor-v1.herokuapp.com/](https://pwa-text-editor-v1.herokuapp.com/)
+ 
 ## Libraries Used
 
 - [concurrently](https://www.npmjs.com/package/concurrently)
