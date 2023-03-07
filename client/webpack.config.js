@@ -40,8 +40,8 @@ module.exports = () => {
         description: 'Text Editor',
         background_color: '#272822',
         theme_color: '#31a9e1',
-        start_url: './',
-        publicPath: './',
+        start_url: '.',
+        publicPath: '.',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
@@ -50,7 +50,7 @@ module.exports = () => {
           },
         ],
       }),
-      // bundles css into seperate css file
+      // bundles css into separate css file
       new MiniCssExtractPlugin(),
     ],
 
